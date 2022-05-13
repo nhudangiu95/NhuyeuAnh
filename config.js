@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Như yêu Anh",
+    introTitle: 'anh iu Huỳnh Quốc Anh',
+    introDesc: 'Con cò mà uống rượu đêm, gặp phải cành đào lộn cổ xuống ao. Còn em chả uống ngụm nào, vẫn say ngây ngất ngã vào lòng anh. <3 ',
+    btnIntro: 'Nhấp vào đây nè :3',
+    title: 'Anh cứ bảo anh làm việc bình thường nên em sẽ hỏi lại lần nữa... ',
+    desc: 'Anh làm việc có mệt hong anh iu? ',
+    btnYes: 'Bé ơi anh làm mệt lắm. Trước giờ anh nói dối em đó :<',
+    btnNo: 'Bình thường mà, anh hong mệt đâu mà :Đ',
+    question: 'Kể em nghe anh mệt như thế nào nè ^^',
+    btnReply: 'Gửi em iu đôi lời tâm sự ^3^',
+    reply: 'Hiuhiu anh suốt ngày phải chạy deadline trên cơ quan, lâu lâu bị sếp la, cứ mỗi thứ 6 là về trễ vì nhiều việc. Ngoài ra anh còn phải học anh văn, làm CV, portfolio,... rồi làm job ngoài thi thoảng gặp khách hàng chướng, nhiều chuyện khiến anh phải thức đến 2-4h sáng nữa. Chưa kể là khi anh đau không có ai chăm sóc hết ahuhuuu T.T',
+    mess: 'Em biết mà. Em yêu anh nhiều lắm <3333333',
+    messDesc: 'Anh cố gắng làm việc và học giỏi ik, để có tương lai xán lạn. Sau này khi hai mình qua bển được rùi, hy vọng em sẽ giúp anh được một phần nào đó :>',
+    btnAccept: 'Dạ anh sẽ cố gắng. Thương bé :")',
+    messLink: 'https://www.facebook.com/thuynhu.phan.946' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
